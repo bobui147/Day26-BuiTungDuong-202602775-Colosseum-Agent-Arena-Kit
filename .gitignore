@@ -7,3 +7,4 @@ runs/
 kit/world/*/
 !kit/world/*.py
 *.local.json
+colosseum-world-df8c55dabb35.zip
